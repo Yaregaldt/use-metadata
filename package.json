@@ -1,6 +1,6 @@
 {
   "homepage": "https://yaregaldt.github.io/use-metadata/",
-  "name": "book-search-engine",
+  "name": "use-metadata",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
