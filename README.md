@@ -21,18 +21,22 @@ npm install
 
 ## Usage
 
-```typescript
-$ node index.js
-
 ## License
+
 This project is license under Apache
 
 ## Contributing
-Contact me via email
+
+For any contribution a user can clone and upgrade it.
 
 ## Tests
+
 $ n/a
 
 ## Questions
+
 If you have any questions about this projects, please contact me directly at yaregald3@gmail.com. You can view more of my projects at https://github.com/yaregaldt.
+
+```
+
 ```
